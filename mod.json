@@ -1,0 +1,11 @@
+{
+    "id": "gmblahaj.modernbox_fanpatch",
+    "name": "ModernBox Fanpatch",
+    "author": "gmblahaj",
+    "version": "1.3.0",
+    "description": "Some Fanpatches for Modernbox cause Tux cant be assed to fix anything",
+    "iconPath": "icon.jpg",
+    "Dependencies": [],
+    "OptionalDependencies": [],
+    "IncompatibleWith": []
+}
